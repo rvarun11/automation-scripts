@@ -1,17 +1,14 @@
 # Automation Scripts
-
 Scripts for making my life easier.
 
 
 ## LinkedIn Withdraw Requests
 Remove old sent invitations from your LinkedIn acccount.
 
-
 ### Dependencies
 - Selenium
 - ChromeDriver
 - A Chromium Browser
-
 
 ### Run
 1. Download linkedin.py file.
