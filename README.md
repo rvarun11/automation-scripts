@@ -4,7 +4,7 @@
 
 Remove old sent invitations from your LinkedIn acccount.
 
-### Dependencie
+### Dependencies
 - Selenium
 - ChromeDriver
 - A Chromium Browser
