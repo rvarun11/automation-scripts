@@ -1,5 +1,4 @@
 # Automation Scripts
-Scripts for making my life easier.
 
 ## Withdraw LinkedIn Invites
 Withdraw old pending invitations from your LinkedIn acccount.
