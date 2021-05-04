@@ -1,7 +1,6 @@
 # Automation Scripts
 Scripts for making my life easier.
 
-
 ## LinkedIn Withdraw Requests
 Remove old sent invitations from your LinkedIn acccount.
 
