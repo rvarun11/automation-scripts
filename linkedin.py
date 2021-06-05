@@ -16,7 +16,7 @@ SCROLL_PAUSE_TIME = 2.0
 
 options = Options()
 
-# If you want the process being automated, uncomment the line below
+# If you want to see the process being automated, uncomment the line below
 # options.add_argument('--headless')
 
 # Add the PATH of your Chromium Browser
